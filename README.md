@@ -36,13 +36,13 @@ Make facebook file for cloning free #facebook #facebookapi
 
 <li><code>git clone --depth=1 https://github.com/PROX-GOD/DUMP</code></li>
 
-<li><code>cd cd DUMP</code></li>
+<li><code>cd DUMP</code></li>
 
-<li><code>cd chmod 777 FILE</code></li>
+<li><code>chmod 777 FILE</code></li>
 
-<li><code>cd ./FILE [FOR 32 BIT]</code></li>
+<li><code>./FILE [FOR 32 BIT]</code></li>
 
-<li><code>cd ./FILE1 [FOR 64 BIT]</code></li>
+<li><code>./FILE1 [FOR 64 BIT]</code></li>
 
 <li><code>python run.py</code></li>
 
