@@ -42,7 +42,7 @@ Make facebook file for cloning free #facebook #facebookapi
 
 <li><code>./FILE [FOR 32 BIT]</code></li>
 
-<li><code>./FILE1 [FOR 64 BIT]</code></li>
+<li><code>./FIL3 [FOR 64 BIT]</code></li>
 
 <li><code>python run.py</code></li>
 
